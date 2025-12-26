@@ -1,6 +1,6 @@
 # EXPERIMENT-2
 ## 2a title:implimentation of mechanism
-class Square {
+  class Square {
   int area(int side) {
   return side * side;
  }
@@ -17,5 +17,4 @@ class Square {
     System.out.println("Perimeter of square: " + perimeter);
   }
 }
-output:
-[output of Square](Square.png)
+## output:[output of Square](Square.png)
