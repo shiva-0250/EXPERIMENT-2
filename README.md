@@ -1,6 +1,5 @@
 # EXPERIMENT-2
-##2a title:implimentation of mechanism
-##source code:
+## 2a title:implimentation of mechanism
 class Square {
   int area(int side) {
   return side * side;
