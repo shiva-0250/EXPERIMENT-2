@@ -1,6 +1,7 @@
 # EXPERIMENT 2
 ## Title:Impliment of mechanism of class
 ## sourcecode:
+```java
 class Square {
     int area(int side) {
         return side * side;
@@ -18,3 +19,4 @@ class Square {
         System.out.println("Perimeter of square: " + perimeter);
     }
 }
+```
